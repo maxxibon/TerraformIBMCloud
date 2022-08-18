@@ -1,6 +1,7 @@
 data ibm_resource_group "resource_group" {
     name = "Default"
 }
+
 resource ibm_container_cluster "tfcluster" {
 name            = "tfclusterdoc"
 datacenter      = "dal10"
