@@ -1,4 +1,4 @@
-# # My account API key 1
+# My account API key 1
 # ibmcloud_api_key = "lBl9Hh-SRVMixgAWjRHDECPYIRHPJBK4Nw6-bYCBcze7" 
 
 # CLoudant account classic infra api key
